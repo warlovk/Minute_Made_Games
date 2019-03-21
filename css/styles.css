@@ -1,0 +1,70 @@
+body {
+  text-align: center;
+  height: 50000px;
+  margin-top: 0px;
+  margin-left: 1px;
+  width: auto;
+  background-color: #35477d;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+  color: #66BFBF;
+}
+
+.glass {
+  font-size: 25px;
+  margin-bottom: 9000px;
+}
+
+.table {
+  margin-left: 100px;
+  margin-bottom:100px;
+}
+
+.contact {
+  font-size: 35px;
+  margin-bottom: 2000px;
+}
+
+.Thanks {
+  font-size: 35px;
+  margin-left: 20px;
+}
+
+.us {
+  font-size: 50px;
+}
+
+.Game001 {
+  background-color: white;
+  border: 10px;
+  padding: 20px;
+  width: 450px;
+  height: 800px;
+  margin-right: 1000px;
+  border-style: solid;
+}
+
+.Img001 {
+  margin-bottom: 60px;
+  margin-top: 90px;
+}
+
+.ref {
+  font-size: 50px;
+}
+
+.Ap {
+  font-family: 'Raleway', sans-serif;
+}
+
+.IMG001 {
+  margin-top: 50px;
+margin-bottom:600px;
+}
+.Banner001{
+  margin-top:px;
+margin-bottom:90px;
+}
